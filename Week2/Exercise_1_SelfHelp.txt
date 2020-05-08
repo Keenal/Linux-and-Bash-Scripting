@@ -1,0 +1,6 @@
+1. man ls
+
+2. man man
+
+3. apropos calendar
+   man apropos

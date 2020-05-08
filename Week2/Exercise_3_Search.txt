@@ -1,0 +1,7 @@
+1. grep "New" states.txt canada.txt
+
+2. egrep -v 'a|A' states.txt > first.txt
+   egrep -v 'e|E' states.txt > second.txt
+   ...etc...
+
+3. find . -name "*.html"
