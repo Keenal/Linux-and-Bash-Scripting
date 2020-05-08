@@ -1,0 +1,6 @@
+1. ls *.png
+
+2. rm *hiking*
+
+3. mv figures* figures/
+   mv lab* lab/
