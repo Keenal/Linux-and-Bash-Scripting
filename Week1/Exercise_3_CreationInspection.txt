@@ -1,0 +1,13 @@
+1. mkdir workbench
+
+2. nano readme.txt
+
+3. echo "1" >> readme.txt
+   echo "2" >> readme.txt
+   echo "3" >> readme.txt
+
+4. cat readme.txt
+
+5. echo "new file" > list.txt
+
+6. wc list.txt

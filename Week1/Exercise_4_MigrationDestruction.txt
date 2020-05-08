@@ -1,0 +1,5 @@
+1. mv message.txt Documents
+
+2. cp message.txt /home
+
+3. mv message.txt trash

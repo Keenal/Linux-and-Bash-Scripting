@@ -1,0 +1,11 @@
+1. cd / 
+
+2. cd ~
+   cd
+   cd ~/
+
+3. cd Music
+
+4. ls
+
+
