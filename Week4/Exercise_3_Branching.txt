@@ -1,0 +1,6 @@
+1. git branch [branchname]
+
+2. git checkout [branchname], git add ., git commit -m "", git checkout master, git merge [branchname]
+
+3. Open the file, keep what you want, commit.
+

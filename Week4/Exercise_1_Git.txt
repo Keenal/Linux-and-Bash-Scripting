@@ -1,0 +1,10 @@
+1.  git init
+
+2. nano filename.sh
+
+3. git status, git add, git commit -m ""
+
+4. git push
+
+5. git push, git reset --soft HEAD~
+
