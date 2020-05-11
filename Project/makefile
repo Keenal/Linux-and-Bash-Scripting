@@ -1,7 +1,7 @@
 all: README.md
 
 README.md:
-	echo "## Title: The Guessing Game, implemented in Bash" > README.md
+	echo "## The Guessing Game" > README.md
 	echo "\n**Created on**: " >> README.md
 	date >> README.md
 	echo "\n**Number of lines of code**: " >> README.md 
