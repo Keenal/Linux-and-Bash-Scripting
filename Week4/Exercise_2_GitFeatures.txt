@@ -1,0 +1,5 @@
+1. git help log, git help diff
+
+2. echo "*.jpg" > .gitignore, git add .
+
+3. git log
